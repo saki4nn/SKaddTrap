@@ -1,0 +1,7 @@
+name: SKaddTrap
+version: 1.0
+main: saki4.skaddtrap.SKaddTrap
+api-version: 1.16
+depend: [VioTrap]
+author: saki4
+description: Дополнение для запрета установки трапок возле определенных блоков.
